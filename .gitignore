@@ -1,0 +1,7 @@
+.env
+.venv
+flask_session
+__pycache__
+test
+test.json
+keygen.py
